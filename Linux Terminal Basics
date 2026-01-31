@@ -1,0 +1,38 @@
+# Lab 1 – Linux Terminal Basics
+
+## Objective
+Learn the basic Linux commands and how to navigate the terminal.
+
+---
+
+## Requirements
+- Linux system or VM  
+- Terminal access  
+
+---
+
+## Commands Learned
+- `pwd` – show current directory  
+- `ls` – list files and directories  
+- `cd` – change directory  
+- `touch` – create files  
+- `mkdir` – create directories  
+
+---
+
+## Tasks Completed
+✔ Navigated directories using `cd`  
+✔ Created a new file using `touch`  
+✔ Created a new folder using `mkdir`  
+✔ Listed files using `ls`  
+✔ Checked current location using `pwd`  
+
+---
+
+## What I Learned
+I learned how to move around the Linux file system, create files and folders, and understand the terminal environment.
+
+---
+
+## Lab Status
+✅ Completed
