@@ -1,0 +1,40 @@
+Objective:
+Learn how Linux directory structure works.
+
+Requirements:
+Access to root and home directories
+
+Activities:
+
+1.Navigate between directories
+
+2.Explore system directories
+
+3.Return to home directory using different methods
+
+
+solution of the lab 1
+how to go  home dictory in linux use 
+cd commond means change dictorary
+first go in terminal of your linux then go root(admin folder or first dictory)
+then write cd /home then you gom home dictory
+
+
+solution of lab 2
+
+Explore system directories
+
+in linux everything starts in root 
+go root folder then wright
+ls commond then outbut looks like 
+boot  initrd.img      lib64       mnt    run   tmp  vmlinuz.old
+dev   initrd.img.old  libx32      opt    sbin  usr
+etc   lib             lost+found  proc   srv   var
+
+in detailed view use 
+ls -la commond
+
+                                                      
+
+
+
